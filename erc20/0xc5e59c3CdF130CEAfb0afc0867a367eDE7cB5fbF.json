@@ -1,0 +1,21 @@
+{
+    "symbol": "ETM",
+    "address": "0xc5e59c3CdF130CEAfb0afc0867a367eDE7cB5fbF",
+    "overview": {
+        "en": "Based on ethereum blockchain, ETM takes a community-based, efficient and secure digital asset trading platform as its core, and perfectly integrates the advantages of centralized trading and decentralized trading.Strong liquidity, high security, trust and transparency, fairness, transparency and efficiency development.",
+        "zh": "ETM基于以太坊区块链，以社区化、高效率、重安全的数字资产交易平台为核心，将完美集成中心化交易和去中心化交易的优点。强大的流动性,高安全性,可信透明,兼顾公平透明与效率发展。"
+    },
+    "email": "php300@qq.com",
+    "website": "https://etmion.com",
+    "whitepaper": "https://etmion.com/public.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-12-20",
+    "initial_price": {
+        "ETH": "0.00068 ETH",
+        "USD": "0.1 USD",
+        "BTC": "0.000013 BTC"
+    },
+    "links": {
+        "telegram": "https://t.me/etm_bbs"
+    }
+}
